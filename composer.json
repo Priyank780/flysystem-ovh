@@ -1,5 +1,5 @@
 {
-    "name": "edudip/flysystem-ovh",
+    "name": "priyank780/flysystem-ovh",
     "description": "Flysystem Adapter for OVH Openstack Swift Object Storage",
     "license": "MIT",
     "authors": [
